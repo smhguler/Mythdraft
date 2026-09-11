@@ -1,8 +1,8 @@
 # MYTHDRAFT
 
 Mitolojik panteonlar üzerine kurulu, sıra tabanlı roguelike deste kurucu.
-Yunan, Türk ve Mezopotamya panteonlarından biriyle başla, dallanan bir yolda
-ilerle, her savaştan sonra desteni büyüt, boss'a ulaş.
+Dört panteondan biriyle başla, dallanan bir yolda ilerle, her savaştan sonra
+desteni büyüt, boss'a ulaş.
 
 Her panteon farklı bir oynanış ekseni taşır:
 
@@ -11,6 +11,7 @@ Her panteon farklı bir oynanış ekseni taşır:
 | **Yunan** | Kontrol — düşmanın sırasını elinden alırsın |
 | **Türk** | Dayanıklılık ve sürü — yıpratır, ayakta kalırsın |
 | **Mezopotamya** | Kehanet — desteni elersin, biriktirdiğinle vurursun |
+| **Mısır** | Kurban — canını ödersin, yaktığını geri getirirsin |
 
 **Tusvaren Games**
 
