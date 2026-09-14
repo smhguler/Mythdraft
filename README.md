@@ -1,7 +1,7 @@
 # MYTHDRAFT
 
 Mitolojik panteonlar üzerine kurulu, sıra tabanlı roguelike deste kurucu.
-Dört panteondan biriyle başla, dallanan bir yolda ilerle, her savaştan sonra
+Beş panteondan biriyle başla, dallanan bir yolda ilerle, her savaştan sonra
 desteni büyüt, boss'a ulaş.
 
 Her panteon farklı bir oynanış ekseni taşır:
@@ -12,6 +12,9 @@ Her panteon farklı bir oynanış ekseni taşır:
 | **Türk** | Dayanıklılık ve sürü — yıpratır, ayakta kalırsın |
 | **Mezopotamya** | Kehanet — desteni elersin, biriktirdiğinle vurursun |
 | **Mısır** | Kurban — canını ödersin, yaktığını geri getirirsin |
+| **Hitit** | Yemin ve bedel — sözünü tutar, gücünü büyütürsün |
+
+Her panteonun 50 kartı ve kendine ait relik havuzu bulunur.
 
 **Tusvaren Games**
 
@@ -42,7 +45,8 @@ Sorun ya da görüşleri [Issues](../../issues) üzerinden iletebilirsiniz.
 Özellikle merak ettiğimiz: nerede sıkıldınız, nerede ne yapacağınızı anlamadınız,
 hangi kart ya da düşman haksız geldi.
 
-## Teşekkür
+## Üçüncü taraf varlıklar
 
-Kart ve relik ikonları [game-icons.net](https://game-icons.net) — CC BY 3.0.
-Ses efektleri [Kenney](https://kenney.nl) — CC0.
+Kart ve relik ikonları LayerLab Picto Icon Pack 01 ve hardartcore Simple UI
+Icons paketlerinden, Fab Standard License kapsamında kullanılmıştır. Ses
+efektleri [Kenney](https://kenney.nl) tarafından CC0 kapsamında yayımlanmıştır.
